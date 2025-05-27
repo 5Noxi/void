@@ -33,8 +33,11 @@ Examples of whitespaces:
 `[char]0x200B` = `​` (used)
 
 __**Usage:**__
+
 `nvi` -> Input
+
 `nvo` -> Output
+
 `.\NV-Invisible.ps1 -nvi ".\Before.ps1" -nvo ".\Minfied.ps1"`
 
 Preview:
