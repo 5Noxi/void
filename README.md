@@ -38,7 +38,7 @@ __**Usage:**__
 
 `nvo` -> Output
 
-`.\NV-Invisible.ps1 -nvi ".\Before.ps1" -nvo ".\Minfied.ps1"`
+`.\NV-Invisible.ps1 -nvi ".\Before.ps1" -nvo ".\Invisible.ps1"`
 
 Preview:
 ![minpre](https://github.com/5Noxi/Invisible-Obfuscation/blob/main/invisible.png?raw=true)
