@@ -33,3 +33,8 @@ __**Usage:**__
 `.\NV-Invisible.ps1 -nvi ".\Before.ps1" -nvo ".\Minfied.ps1"`
 
 Preview:
+![minpre](https://github.com/5Noxi/Invisible-Obfuscation/blob/main/invisible.png?raw=true)
+
+As the content consists of spaces and whitespace chars, there's not much to show (2nd is the deobfuscation part at the end):
+![minpre](https://github.com/5Noxi/Invisible-Obfuscation/blob/main/after1.png?raw=true)
+![minpre](https://github.com/5Noxi/Invisible-Obfuscation/blob/main/after2.png?raw=true)
