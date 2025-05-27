@@ -21,10 +21,15 @@ Convert strings to binary yourself with:
 
 Examples of whitespaces:
 `[char]0x2003` = ` `
+
 `[char]0x3000` = `　`
+
 `[char]0x2007` = ` `
+
 `[char]0x2006` = ` `
-`[char]0x2004` = ` `​​
+
+`[char]0x2004` = ` `
+
 `[char]0x200B` = `​` (used)
 
 __**Usage:**__
