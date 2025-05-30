@@ -1,4 +1,4 @@
-﻿#    Powershell Obfuscation - Invisible Code (Whitespace)
+#    Powershell Obfuscation - Invisible Code (Whitespace)
 #    Copyright (C) 2025 Noverse
 #
 #    This program is proprietary software: you may not copy, redistribute, or modify
@@ -71,12 +71,12 @@ $nvlt = @('lt','LT','Lt','lT','lT','LT','Lt','lT') | Get-Random
 
 function main{
     bannercyan
-    log "[?]" "Reading" "$nvi" -HighlightColor Blue -SequenceColor DarkGray
+    log "[~]" "Reading" "$nvi" -HighlightColor Gray -SequenceColor DarkGray
     sleep -Milliseconds 100
     $content=if($nvi){
     cat $nvi -Encoding utf8 -Raw}else{
     $Input | Out-String}
-    log "[~]" "Minimizing content" -HighlightColor Gray
+    log "[+]" "Minimizing content" -HighlightColor Green
     sleep -Milliseconds 100
     $content = $content -replace ';\n', "`n" # causes issues if using additional obfuscation with specific backtick handling
     $content = $content -replace '\r\n', "`n" # same as above
@@ -221,12 +221,12 @@ function main{
     }
     sleep -Milliseconds 100
     $aliast.GetEnumerator() |%{
-        $before = $_.Key
-        $after = $_.Value
-        if ($content -match [regex]::Escape($before)) {log "[*]" "Replaced commands: $before >> $after" -HighlightColor Blue}
+        #$before = $_.Key
+        #$after = $_.Value
+        #if ($content -match [regex]::Escape($before)) {log "[~]" "Replaced commands: $before >> $after" -HighlightColor gray}
         $content = $content -ireplace $_.Key, $_.Value}
 
-    log "[~]" "Rewriting content to one liner" -HighlightColor Gray
+    log "[~]" "Writing content to one liner" -HighlightColor Gray
     $plines, $buffer, $endfix = @(), @(), @()
     $beforestart, $afterend, $endidx = $false, $false, -1
     foreach ($line in $Content -split "`n") {
@@ -265,11 +265,12 @@ function main{
 
     log "[~]" "Converting strings to binary" -HighlightColor Gray
     $binary = ($content.ToCharArray() | % {[Convert]::ToString([byte][char]$_, 2).PadLeft(8, '0')}) -join ''
+    log "[~]" "Replacing intergers"
     $obfuscated = ($binary.ToCharArray() | % {if ($_ -eq '0') { "​" } else { "​​" }}) -join ' '
     $stub = @"
 `$nohuxi=("$obfuscated" -$nvsplit ' ').$nvforeach({$nvif(`$_ -$nveq "​"){$nv0} $nvelseif (`$_ -$nveq "​​"){$nv1}}) -$nvjoin '';`$تnvρΞψϕoNgzχwhoνOunxσxxiXкΥΦdvinξ=$nvfor (`$i = ((3-shl1-band(1-shl3))-bxor(2*4)-2*4); `$i -$nvlt `$nohuxi.$nvlength; `$i +=((-bnot(-bnot(1)))-shl(7-band3))) {$nvif (`$i + ((((9-bxor1)-band15)-bor(1-shl1))-band((3-shl2))) -$nvle `$nohuxi.$nvlength) {[$nvchar]([$nvconvert]::$nvtoint32(`$nohuxi.$nvsubstring(`$i, (((2-shl2)-bor(1-shl3))-band(3-bxor11))),(((1-shl3)-shr2)-band((3-shl 1)-bxor4))))}}$nviex(`$تnvρΞψϕoNgzχwhoνOunxσxxiXкΥΦdvinξ -$nvjoin '')
 "@
-    log "[+]" "Done, output at -" "$nvo" -HighlightColor Green -SequenceColor DarkGray 
+    log "[+]" "Output at -" "$nvo" -HighlightColor Green -SequenceColor DarkGray 
     [System.IO.File]::WriteAllText($nvo,$stub,[System.Text.Encoding]::UTF8)
     log "[/]" "Press any key to exit" -HighlightColor Yellow
     [System.Console]::ReadKey($true) | Out-Null
