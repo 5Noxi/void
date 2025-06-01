@@ -1,4 +1,4 @@
-# Invisible-Obfuscation
+# Void-Obfuscation
 
 Simple obfuscation, if the "attacker" knows how to deobfuscate powershell code, it won't make it hard for him to reverse it. Obfuscate your files with [Omni-Crypter](https://github.com/5Noxi/Omni-Crypter) / [B64Reversed-Math-Obfuscator](https://github.com/5Noxi/B64Reversed-Math-Obfuscator) instead. I created it, as I always wanted my own script, which is able to create a empty looking file. It can be combined with [Omni-Crypter](https://github.com/5Noxi/Omni-Crypter) etc. (if replacing the alphabet presets), but as said this was made for fun, so it'll stay simple. [Minifier](https://github.com/5Noxi/PowerShell-Minifier) (merges content into one line) is used by default - **it removes comments**, which are useless after obfuscation anyway.
 
