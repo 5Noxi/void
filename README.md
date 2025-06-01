@@ -43,6 +43,5 @@ __**Usage:**__
 Preview:
 ![minpre](https://github.com/5Noxi/Invisible-Obfuscation/blob/main/invisible.png?raw=true)
 
-As the content consists of spaces and whitespace chars, there's not much to show (2nd is the deobfuscation part at the end):
-![minpre](https://github.com/5Noxi/Invisible-Obfuscation/blob/main/after1.png?raw=true)
-![minpre](https://github.com/5Noxi/Invisible-Obfuscation/blob/main/after2.png?raw=true)
+As the content consists of spaces and whitespace chars, there's not much to show (only the deobfuscation stub):
+![minpre](https://github.com/5Noxi/Invisible-Obfuscation/blob/main/after.png?raw=true)
