@@ -15,11 +15,17 @@ Convert your code to binary yourself with:
 (gc "C:\path\nv.ps1") -join ''|% {($_.tochararray()|% {[convert]::tostring([byte][char]$_,2).padleft(8,'0')}) -join ' '}
 ```
 Examples of whitespaces:
+
 `[char]0x2003` = ` `
+
 `[char]0x3000` = `　`
+
 `[char]0x2007` = ` `
+
 `[char]0x2006` = ` `
-`[char]0x2004` = ` `​​
+
+`[char]0x2004` = ` `
+​​
 `[char]0x200B` = `​`
 
 ## Discord Server 
