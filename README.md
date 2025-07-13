@@ -2,6 +2,10 @@
 
 'Void' obfuscation or more likely binary obfuscation. I created it as I always wanted my own script, which is able to create a empty looking file. It uses the [minifier](https://github.com/5Noxi/PowerShell-Minifier) by default. `Input File` is mandatory, if the `Output File` path isn't set, it'll use the current file name and adds `NV-`.
 
+Preview:
+
+https://github.com/user-attachments/assets/e4e94d1b-6df7-4552-b677-4c2ad07db12a
+
 After minimizing the code each byte gets converted to a binary string (`8` bits), which are split using a invisible character. The binary string character (`0`/`1`) then get replaced with a specified character, if a custom character isn't set a different invisible character will be used:
 ```ps
 'Noverse' -> '01001110 01101111 01110110 01100101 01110010 01110011 01100101' -> '​‌​​‌​​‌​​‌​‌​‌​​‌​​‌​‌​​‌​​‌​‌​‌​‌​‌​​‌​‌​​‌​​‌​‌​​‌​​‌​‌​‌​‌​‌​​‌​‌​‌​‌​‌​‌​‌​‌​​‌​‌​​‌​​‌​‌​​‌​‌​​‌​​‌​‌​​‌​​‌​​‌​‌​‌​​‌​​‌​‌​‌​‌​‌​​‌​‌​​‌​​‌​‌​​‌​​‌​‌​​‌​‌​​‌​​‌​‌​‌​​‌​‌​​‌​‌​‌​​‌​‌​‌​‌​‌​‌​‌​​‌​​‌​‌​​‌​​‌​​‌​‌​‌​​‌​​‌​​‌​‌​​‌​​‌​‌​‌​​‌​​‌​​‌​‌​​‌​​‌​​‌​‌​​‌​​‌​‌​​‌​‌​‌​‌​‌​‌​​‌​‌​‌​‌​‌​‌​‌​‌​​‌​‌​​‌​​‌​‌​​‌​‌​​‌​​‌​​‌​‌​​‌​​‌​‌​‌​​‌​​‌​‌​‌​‌​‌​​‌​‌​​‌​​‌​‌​​‌​​‌​‌​‌​‌​​‌​​‌​​‌​‌​​‌​‌​​‌​‌​​‌​​‌​‌​‌​​‌​‌​​‌​‌​‌​​‌​‌​‌​‌​‌​‌​‌​​‌​‌​​‌​‌​​‌​​‌​​‌​‌​​‌​​‌​​‌​‌​‌​​‌​‌​‌​​‌​​‌​‌​​‌​‌​‌​​‌​‌​​‌​​‌​​‌​‌​​‌​‌​‌​‌​​‌​​‌​‌​‌​​‌​‌​​‌​‌​‌​​‌​‌​​‌​​‌​‌​​‌​‌​​‌​‌​‌​​‌​‌​‌​‌​‌​​‌​​‌​‌​​‌​​‌​​‌​​‌​‌​​‌​​‌​​‌​‌​‌​​‌​​‌​‌​​‌​​‌​​‌​‌​​‌​‌​‌​‌​‌​​‌​​‌​​‌​‌​​‌​​‌​‌​​‌​‌​‌​​‌​​‌​​‌​‌​‌​​‌​​‌​‌​​‌​​‌​​‌​​‌​‌​​‌​​‌​​‌​‌​​‌​​‌​‌​‌​​‌​​‌​‌​‌​​‌​‌​​‌​‌​​‌​​‌​​‌​‌​‌​​‌​‌​‌​​‌​​‌​​‌​‌​‌​​‌​​‌​‌​​‌​​‌​‌​‌​​‌​‌​​'
