@@ -12,25 +12,19 @@ After minimizing the code each byte gets converted to a binary string (`8` bits)
 ```
 Depending on how the user sets the custom character, the last string looks different.
 
-`Custom Character` - Will be used to replace `0`/`1`, you can set it to whatever you want (if leaving it empty or using `Clear` the invisible character will get used)
-
 Convert your code to binary yourself with:
 ```ps
 (gc "C:\path\nv.ps1") -join ''|% {($_.tochararray()|% {[convert]::tostring([byte][char]$_,2).padleft(8,'0')}) -join ' '}
 ```
-Examples of whitespaces:
+Examples of whitespaces:  
+`[char]0x2003` = ` `  
+`[char]0x3000` = `　`  
+`[char]0x2007` = ` `  
+`[char]0x2006` = ` `  
+`[char]0x2004` = ` `  
+`[char]0x200B` = `​`  
 
-`[char]0x2003` = ` `
-
-`[char]0x3000` = `　`
-
-`[char]0x2007` = ` `
-
-`[char]0x2006` = ` `
-
-`[char]0x2004` = ` `
-​​
-`[char]0x200B` = `​`
-
-## Discord Server 
-- https://discord.gg/E2ybG4j9jU
+## GUI Buttons
+| Button             | Description                                                                                                                                    |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| `Custom Character` | Used to replace `0` and `1`. You can set it to any character you want.<br>If left empty or cleared with `Clear`, an invisible character will be used. |
