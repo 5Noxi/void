@@ -2,7 +2,7 @@
 
 'Void' obfuscation or more likely binary obfuscation. I created it as I always wanted my own script, which is able to create a empty looking file. It uses the [minifier](https://github.com/5Noxi/PowerShell-Minifier) by default. `Input File` is mandatory, if the `Output File` path isn't set, it'll use the current file name and adds `NV-`.
 
-Preview:
+Preview (not up to date):
 
 https://github.com/user-attachments/assets/e4e94d1b-6df7-4552-b677-4c2ad07db12a
 
@@ -28,3 +28,5 @@ Examples of whitespaces:
 | Button             | Description                                                                                                                                    |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | `Custom Character` | Used to replace `0` and `1`. You can set it to any character you want.<br>If left empty or cleared with `Clear`, an invisible character will be used. |
+| `Soft Minify`      | Doesn't remove spaces before/after `,`, `(`, `)`, `;`, `!`, `=`, `+`.                                                                                 |
+| `Detailed Logging` | Displays replaced parameters and cmdlets.                                                                                                             |
