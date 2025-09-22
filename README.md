@@ -29,4 +29,4 @@ Examples of whitespaces:
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | `Custom Character` | Used to replace `0` and `1`. You can set it to any character you want.<br>If left empty or cleared with `Clear`, an invisible character will be used. |
 | `Soft Minify`      | Doesn't remove spaces before/after `,`, `(`, `)`, `;`, `!`, `=`, `+`.                                                                                 |
-| `Detailed Logging` | Displays replaced parameters and cmdlets.                                                                                                             |
+| `Detailed Logging` | Displays replaced parameters, cmdlets and the defined custom variable.                                                                                |
