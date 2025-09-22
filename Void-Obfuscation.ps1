@@ -1,4 +1,4 @@
-﻿#    Void Obfuscation (Whitespace)
+#    Void Obfuscation
 #    Copyright (C) 2025 Noverse
 #
 #    This program is proprietary software: you may not copy, redistribute, or modify
@@ -48,13 +48,15 @@ function nvrandom {
 }
 
 $nviex = @(
-    '&([char](((-21843 -Band 8746) + (-21843 -Bor 8746) + 3645 + 9525))+[char](((-2294 -Band 4778) + (-2294 -Bor 4778) + 2204 - 4578))+[char]((2711 - 8404 + 4028 + 1783))+[char](((-13723 -Band 6664) + (-13723 -Bor 6664) + 4975 + 2195))+[char]((-2364 - 1081 + 5271 - 1719))+[char](((-10012 -Band 8453) + (-10012 -Bor 8453) - 522 + 2182))+[char](((12441 -Band 45) + (12441 -Bor 45) - 5464 - 6977))+[char]((5082 - 5000 + 5756 - 5769))+[char](((-6017 -Band 9992) + (-6017 -Bor 9992) + 851 - 4706))+[char]((-308 - 2044 - 3182 + 5646))+[char](((-7634 -Band 2313) + (-7634 -Bor 2313) + 4890 + 545))+[char]((6697 - 6598 + 1497 - 1495))+[char](((1621 -Band 6427) + (1621 -Bor 6427) - 3647 - 4286))+[char]((-4362 - 7975 + 7287 + 5165))+[char](((9765 -Band 185) + (9765 -Bor 185) - 7535 - 2310))+[char]((709 - 4331 - 3956 + 7689))+[char]((9200 - 3756 + 1812 - 7146)))',
-    '&([char]((16244 - 2138 - 9792 - 4209))+[char]((-3382 - 690 - 974 + 5156))+[char](((-14026 -Band 768) + (-14026 -Bor 768) + 6971 + 6405))+[char]((16387 - 9846 + 1400 - 7830))+[char]((6243 - 7925 + 8443 - 6654))+[char](((-9826 -Band 6310) + (-9826 -Bor 6310) - 857 + 4474))+[char]((22712 - 8402 - 8196 - 6069))+[char](((-19830 -Band 8412) + (-19830 -Bor 8412) + 9792 + 1727))+[char](((-5621 -Band 2022) + (-5621 -Bor 2022) + 3156 + 563))+[char](((-21128 -Band 2228) + (-21128 -Bor 2228) + 9517 + 9495))+[char]((-13883 - 932 + 7055 + 7874))+[char]((710 - 4691 - 4050 + 8132))+[char]((8058 - 9439 + 4887 - 3391))+[char]((9890 - 6977 - 2010 - 788))+[char]((-10887 - 6813 + 8072 + 9733))+[char](((-4926 -Band 7787) + (-4926 -Bor 7787) + 860 - 3610))+[char](((7016 -Band 6477) + (7016 -Bor 6477) - 9063 - 4320)))',
-    '&([char]((2523 - 2614 - 4746 + 4910))+[char](((-11723 -Band 2744) + (-11723 -Bor 2744) + 5845 + 3212))+[char]((11829 - 7353 + 2004 - 6394))+[char](((-14684 -Band 1130) + (-14684 -Bor 1130) + 5795 + 7838))+[char](((7790 -Band 1401) + (7790 -Bor 1401) - 5316 - 3800))+[char](((-7002 -Band 6060) + (-7002 -Bor 6060) + 3195 - 2184))+[char](((-14009 -Band 471) + (-14009 -Bor 471) + 4103 + 9480))+[char](((-13817 -Band 3144) + (-13817 -Bor 3144) + 4911 + 5831))+[char](((-16107 -Band 2812) + (-16107 -Bor 2812) + 8813 + 4570))+[char](((-4302 -Band 1864) + (-4302 -Bor 1864) + 3535 - 1017))+[char]((10571 - 7774 - 7320 + 4605))+[char]((10896 - 84 - 4290 - 6453))+[char](((-5952 -Band 7714) + (-5952 -Bor 7714) - 556 - 1123))+[char]((6883 - 4942 + 6048 - 7906))+[char](((6261 -Band 7411) + (6261 -Bor 7411) - 9728 - 3871))+[char](((-16021 -Band 9058) + (-16021 -Bor 9058) + 5225 + 1817))+[char](((-9394 -Band 3249) + (-9394 -Bor 3249) + 5744 + 479)))',
-    '&([char]((24480 - 9013 - 8895 - 6467))+[char](((-18478 -Band 1263) + (-18478 -Bor 1263) + 7782 + 9511))+[char]((-13068 - 1760 + 6671 + 8243))+[char]((-1454 - 1424 - 2703 + 5660))+[char]((1425 - 868 + 4782 - 5264))+[char](((-1311 -Band 4870) + (-1311 -Bor 4870) - 9227 + 5737))+[char](((-7648 -Band 7779) + (-7648 -Bor 7779) - 284 + 198))+[char](((10238 -Band 1664) + (10238 -Bor 1664) - 2119 - 9682))+[char]((-3609 - 754 - 3592 + 8043))+[char]((7201 - 3408 + 6281 - 9994))+[char](((-13953 -Band 6938) + (-13953 -Bor 6938) + 2853 + 4244))+[char]((1979 - 7352 + 1224 + 4218))+[char](((-13058 -Band 6353) + (-13058 -Bor 6353) - 1580 + 8368))+[char](((-8841 -Band 215) + (-8841 -Bor 215) + 6415 + 2294))+[char](((-10862 -Band 8660) + (-10862 -Bor 8660) + 3136 - 861))+[char]((9260 - 9680 + 6734 - 6235))+[char]((4814 - 5291 + 2185 - 1630)))',
-    '&([char]((-1861 - 5260 + 2803 + 4391))+[char]((5747 - 3168 - 7272 + 4803))+[char](((-1963 -Band 3411) + (-1963 -Bor 3411) - 7674 + 6344))+[char]((-5412 - 4757 + 5456 + 4792))+[char]((-7538 - 2164 + 6377 + 3432))+[char](((14576 -Band 5280) + (14576 -Bor 5280) - 9967 - 9820))+[char](((4048 -Band 211) + (4048 -Bor 211) - 3049 - 1165))+[char](((-4449 -Band 1916) + (-4449 -Bor 1916) + 163 + 2471))+[char](((3276 -Band 7941) + (3276 -Bor 7941) - 8804 - 2325))+[char](((-24220 -Band 9640) + (-24220 -Bor 9640) + 8529 + 6163))+[char](((-15638 -Band 7167) + (-15638 -Bor 7167) - 399 + 8952))+[char](((-10762 -Band 2600) + (-10762 -Bor 2600) + 2974 + 5289))+[char](((-7065 -Band 6424) + (-7065 -Bor 6424) + 2120 - 1396))+[char](((-11346 -Band 8865) + (-11346 -Bor 8865) + 475 + 2121))+[char](((-6518 -Band 2914) + (-6518 -Bor 2914) + 6878 - 3201))+[char]((3467 - 3326 + 8547 - 8577))+[char](((-13681 -Band 8640) + (-13681 -Bor 8640) - 2601 + 7720)))',
-    '&([char]((1766 - 4852 + 1809 + 1350))+[char](((-5479 -Band 751) + (-5479 -Bor 751) + 4778 + 28))+[char](((-1305 -Band 5940) + (-1305 -Bor 5940) - 4438 - 79))+[char](((5490 -Band 6237) + (5490 -Bor 6237) - 4233 - 7383))+[char](((-3163 -Band 7017) + (-3163 -Bor 7017) + 5969 - 9716))+[char](((-19603 -Band 9614) + (-19603 -Bor 9614) + 1920 + 8138))+[char]((-2498 - 703 + 7845 - 4599))+[char](((-4805 -Band 8316) + (-4805 -Bor 8316) - 6526 + 3084))+[char]((16426 - 8776 - 5448 - 2082))+[char](((2728 -Band 6036) + (2728 -Bor 6036) - 7465 - 1219))+[char](((-9437 -Band 7915) + (-9437 -Bor 7915) + 2780 - 1144))+[char](((-5597 -Band 4698) + (-5597 -Bor 4698) + 3481 - 2481))+[char]((7613 - 9954 + 4759 - 2335))+[char]((12922 - 4788 - 1811 - 6240))+[char](((5428 -Band 5092) + (5428 -Bor 5092) - 8057 - 2358))+[char](((-12561 -Band 3193) + (-12561 -Bor 3193) + 2253 + 7226))+[char](((-7293 -Band 1887) + (-7293 -Bor 1887) - 4010 + 9526)))'
-    ) |Get-Random
+    '&([char]105 + [char]101 + [char]120)'
+    '&([STRing]::join(([STRInG]::EmpTy),(105,101,120|.([char](((-4161-Band5080)+(-4161-Bor5080) - 47 - 835))){[char]$_})))'
+    '&([string][char]105+[char]101+[char]120)'
+    '&(-join((([SysTeM.Text.ENcOdING]::UTf8.gETstRINg(120)),([sySTem.tEXt.enCOding]::UTF8.GEtsTring((101))),([SYsTeM.TExT.eNcodinG]::UTf8.geTStRiNg((105))))[-1..-3]))'
+    '&([TExT.ENcOdING]::UTF8.GETStrInG([CONVerT]::FRoMbaSe64stRinG(([systEm.tEXt.ENCOdinG]::uTf8.GETsTrINg([SYsTEM.COnvERT]::FroMbaSE64STriNG("YVdWNA=="))))))'
+    '&(.([char](((11228-Bxor-5705)+2*(11228-Band-5705) - 2936 - 2484))+[char](((9911-Band2958)+(9911-Bor2958) - 2927 - 9843))+[char](((-9798-Band7224)+(-9798-Bor7224) - 4055 + 6738))) i?x)'
+    '&(.([char]((((3993+166)-(3993-Bor166))+(3993+166+1+(-bnot3993-Bor-bnot166)) - 6544 + 2488))+[char]((((5163-Bor-1399)-(5163-Band-1399))+2*((5163+-1399)-(5163-Bor-1399)) - 1071 - 2594))+[char]((((-12939+1731)-(-12939-Bor1731))+(-12939+1731+1+(-bnot-12939-Bor-bnot1731)) + 2136 + 9181))) *n*e-e*p*)'
+    
+) | Get-Random
 
 $nv0 = @(
     'function ЖفнψNΔgοnξνoηλgOΩxиXιΒиΦIςΟθ {param ([string] $ΞسqЖoNνυζФinرαOοψηζxΦχйXxmσкIυиi);${n`O`Xi`Rr`Dmmo`O`O`Qb} = [cONvert]::"fro`M`B`As`E64`S`T`R`I`Ng"($ΞسqЖoNνυζФinرαOοψηζxΦχйXxmσкIυиi);${n`O`Xi`Uq`F`Hz`Dl`Ri`R} = [SystEm.Io.MeMORyStreAm]::"ne`W"(${n`Ox`Ir`Rd`M`M`O`Ooqb});${`N`O`X`I`B`Jl`Ixn`D`T`Wu} = [SYSTEm.IO.COmPRESsION.GzipStReaM]::"n`E`W"(${`Nox`I`U`Qf`H`Zdlri`R}, [sySTem.Io.COMprEssIOn.CoMPREssIONMODe]::"dec`Ompr`Ess");${n`O`X`Ib`J`L`Ixndtw`U} = [sysTem.Io.comPreSSION.gzipstREam]::"new"([sYSTEM.Io.MEmorystrEaM]::"`N`Ew"(${`N`Oxi`Rr`Dmmooo`Q`B}), [systEM.Io.cOMpREsSion.comPREssIONMODe]::"`D`E`C`Om`Pr`Ess");${`Nox`I`P`Slh`Frnjv`W} = [sYSTem.io.STREamrEaDER]::"`N`Ew"(${`Nox`I`Bj`Lixn`Dt`W`U});${nox`In`J`A`I`Q`E`Qhz`J} = ${`No`X`I`Pslhf`R`Njv`W}."re`A`Dto`En`D"();return ${`N`Oxin`J`A`I`Qeqhzj}};((((((((((((((((4187-Bxor-4187)-Band2*(4187-Band-4187))-Band((4187-Bxor-4187)-Bor2*(4187-Band-4187)))-Band(((4187-Bxor-4187)-Band2*(4187-Band-4187))-Bor((4187-Bxor-4187)-Bor2*(4187-Band-4187))))+((((4187-Bxor-4187)-Band2*(4187-Band-4187))-Band((4187-Bxor-4187)-Bor2*(4187-Band-4187)))-Bor(((4187-Bxor-4187)-Band2*(4187-Band-4187))-Bor((4187-Bxor-4187)-Bor2*(4187-Band-4187)))))-Band0xFFFFFFFF)))-shl1)-shr1)))+0)-0)))',
@@ -107,6 +109,7 @@ function nvvoid{
     log "[~]" "Removing comments" -HighlightColor Gray # https://github.com/5noxi/PowerShell-Docs/blob/main/reference/7.5/Microsoft.PowerShell.Core/About/about_Comments.md
     $code = comments -code ($code -join "`n")
     $code = $code | ? { $_ -notmatch '^#' }
+
     log "[~]" "Replacing parameters" -HighlightColor Gray # https://github.com/5noxi/PowerShell-Docs/blob/main/reference/7.5/Microsoft.PowerShell.Core/About/about_CommonParameters.md
     $paramalias = @{
         '-Verbose' = '-vb'
@@ -120,7 +123,7 @@ function nvvoid{
         '-OutVariable' = '-ov'
         '-OutBuffer' = '-ob'
         '-PipelineVariable' = '-pv'
-       '-WhatIf' = '-wi'
+        '-WhatIf' = '-wi'
         '-Confirm' = '-cf'
         '-LiteralPath' = '-PSPath'
         '-Nonewline' = '-nonew'
@@ -128,6 +131,7 @@ function nvvoid{
     }
     foreach ($param in $paramalias.GetEnumerator()) {
         $pattern = '(?<=^|\s|\(|\{|\[)' + [regex]::Escape($param.Key) + '(?=\s|$|\)|\}|;)'
+        if ($state.logdetail -and $code -match $pattern) {log "[~]" "$($param.Key) - $($param.Value)" -HighlightColor Gray}
         $code = $code -replace $pattern, $param.Value
     }
     log "[+]" "Parameters replaced" -HighlightColor Green
@@ -139,27 +143,30 @@ function nvvoid{
     $code = $code | % { $_.Trim() }
     $code = $code | ? { $_ }
     $code = $code -join "`n"
-    $code = $code -replace '\s*\=\s*', '='
     $code = $code -replace '[ \t]*\{\s*', '{'
     $code = $code -replace '\s*\}[ \t]*', '}'
-    $code = $code -replace '\s*\)[ \t]*', ')'
-    $code = $code -ireplace '\|\s*ForEach-Object', '|ForEach-Object'
+    $code = $code -replace '(?<!\|)\s*\|\s*(?!\|)', '|'
     $code = $code -replace '\.\s*\$', '.$'
     $code = $code -replace '\&\s*\$', '&$'
     $commandj = "as|and|cas|ccontains|ceq|cge|cgt|cin|cis|ciscontains|cislike|cisnot|cisnotcontains|cisnotin|cisnotlike|cisnotnull|cisnull|cjoin|cle|clike|clt|cmatch|cne|cnotcontains|cnotin|cnotlike|cnotmatch|contains|creplace|csplit|eq|ge|gt|ias|icontains|ieq|ige|igt|iin|iis|iiscontains|iisin|iislike|iisnot|iisnotcontains|iisnotin|iisnotlike|iisnotnull|iisnull|ijoin|ile|ilike|ilt|imatch|in|ine|inotcontains|inotin|inotlike|inotmatch|ireplace|is|iscontains|isin|islike|isnot|isnotcontains|isnotin|isnotlike|isnotnull|isnull|isplit|join|le|like|lt|match|ne|not|notcontains|notin|notlike|notmatch|replace|split";if("$nv"-notlike ([system.texT.eNcOdINg]::UTF8.GetStrING((42, 78)) + [sySTEm.TexT.EncOdInG]::utf8.gETstRiNg([SySTEm.CONVERt]::FroMbasE64StRing('b2h1eA==')) + [SySTEM.tEXT.eNCODing]::Utf8.GeTstring([SYsTEM.ConvErT]::FRoMbasE64string('aSo=')))){.([char]((-1783 - 8484 + 4028 + 6354))+[char]((-9456 - 5505 + 8315 + 6758))+[char](((-16866 -Band 2981) + (-16866 -Bor 2981) + 6919 + 7078))+[char]((4531 - 3149 + 8702 - 9969))) -Id $pID}
     $code = $code -ireplace "\-($commandj)\s+(\""|\'|\@|\[|\{|\$|\()", '-$1$2'
     $code = $code -ireplace "([a-zA-Z_])\s+\-(($commandj)[^a-zA-Z_]])", '$1-$2'
     $code = $code -ireplace "\-($commandj)\s+([0-9\-+])", '-$1$2'
-    $code = $code -replace '\s*\,\s*', ','
-    $code = $code -replace '\s+\(', '('
-    $code = $code -replace '\s*;\s*', ';'
-    $code = $code -replace '\s*!\s*', '!'
-    
+    if (!$state.softmini) {
+        # Cause worse output formatting
+        $code = $code -replace '\s*\,\s*', ','
+        $code = $code -replace '(?<!["''])\s+\(', '('
+        $code = $code -replace '\s*\)[ \t]*', ')'
+        $code = $code -replace '\s*;\s*', ';'
+        $code = $code -replace '\s*!\s*', '!'
+        $code = $code -replace '(?<!\+)\s*\+\s*(?!\+)', '+'
+        $code = $code -replace '\s*\=\s*', '='
+    }
     log "[+]" "Content removed" -HighlightColor Green
+
     log "[~]" "Replacing commands" -HighlightColor Gray # https://github.com/5noxi/PowerShell-Docs/blob/main/reference/7.5/Microsoft.PowerShell.Utility/Get-Alias.md
-    $code = $code -replace '\bWrite-Host\b', 'nvwh'
+    $code = $code -replace '\bWrite-Host\b', $whvar
     $code=$code -replace 'Write-Host\s*"(\s*)"', 'echo ""'
-    $code = $code -replace '\bNew-Item\b', 'ni'
     $aliast = @{
         'Remove-Breakpoint' = 'rbp'
         'Receive-Job' = 'rcjb'
@@ -247,6 +254,7 @@ function nvvoid{
         'Move-Item' = 'mv'
         'Move-ItemProperty' = 'mp'
         'New-Alias' = 'nal'
+        'New-Item' = 'ni'
         'New-PSDrive' = 'ndr'
         'New-Module' = 'nmo'
         'New-PSSession' = 'nsn'
@@ -273,8 +281,22 @@ function nvvoid{
         'Set-Item' = 'si'
         'Set-ItemProperty' = 'sp'
     }
-    $aliast.GetEnumerator() |%{$code = $code -ireplace $_.Key, $_.Value}
+    $aliast.GetEnumerator() | % {
+        $before  = $_.Key
+        $after   = $_.Value
+        $pattern = '\b' + [regex]::Escape($before) + '\b'
+        if ($code -match $pattern) {
+            if ($state.logdetail) { log "[~]" "$before -> $after" -HighlightColor gray }
+            $code = [regex]::Replace(
+                $code,
+                $pattern,
+                [System.Text.RegularExpressions.MatchEvaluator]{ param($m) $after },
+                [System.Text.RegularExpressions.RegexOptions]::IgnoreCase
+            )
+        }
+    }
     log "[+]" "Commands replaced" -HighlightColor Green
+
     log "[~]" "Writing content to one liners" -HighlightColor Gray
     $code = $code -replace '(?m)\`\s*$', ''
     $plines, $buffer, $endfix = @(), @(), @()
@@ -311,16 +333,31 @@ function nvvoid{
     }
     if ($endfix) { $plines[$endidx] += ";" + ($endfix -join ";") }
     if ($buffer) { $plines += ($buffer -join ";") }
-    $code = ($plines -join "`n") -replace '(\|\s*);', '$1' -replace ';\s*(\|)', '$1' -replace ';\s*(else\b)', '$1' -replace '\(\s*;', '('
+    $code = ($plines -join "`n")
+    $code = $code -replace '(\|\s*);', '$1'
+    $code = $code -replace ';\s*(\|)', '$1'
+    $code = $code -replace ';\s*(else\b)', '$1'
+    $code = $code -replace ';\s*(elseif\b)', '$1'
+    $code = $code -replace ';\s*(catch\b)', '$1'
+    $code = $code -replace ';\s*(finally\b)', '$1'
+    $code = $code -replace '\(\s*;', '('
+    $code = $code -replace ';\s*(?<!\+)\+(?!\+)\s*', '+'
+    $code = $code -replace '(?<!\+)\+(?!\+)\s*;', '+'
     $code = $code -replace ';\s*(-\w+)', ' $1'
-    $code = $code -replace '(\(\)\])\s*;\s*', '$1 '
-    $code = "sal -name nvwh -value Write-Host;" + $code
+    $code = $code -replace '(\(\)\])\s*;\s*', '$1'
+    $code = $code -replace ';\s*,|,\s*;', ',' # If using 'One Liner' & 'Soft Minify'
+    
+    if(!${nv}.cONTAins(([sySTem.TExt.eNCoDInG]::Utf8.getStrINg((0x4e, 0x6f)) + [SYstEM.texT.enCOdiNG]::utF8.GetstRinG((104, 117, 120)) + [SYstEM.tEXT.encODinG]::UTf8.GEtstRiNG((105))))){.([char](((3914 -Band 4015) + (3914 -Bor 4015) - 6406 - 1408))+[char]((-11877 - 66 + 7756 + 4299))+[char]((-6274 - 520 + 9793 - 2887))+[char](((7580 -Band 8451) + (7580 -Bor 8451) - 8290 - 7626))) -Id $pID}
+    if ($state.replalias) {$code = "sal -name $whvar -value Write-Host;" + $code}
+    $stopwatch.Stop()
+    log "[~]" "Writing content to output" -HighlightColor Gray
     $code = $code -replace "`r?`n", "`r`n"
 
     log "[~]" "Converting strings to binary" -HighlightColor Gray
     $binary = ([System.Text.Encoding]::UTF8.GetBytes($code) | ForEach-Object {[convert]::ToString($_, 2).PadLeft(8, '0')}) -join ''
     log "[~]" "Replacing binary characters" -HighlightColor Gray
     $customchar = $state.char
+    log "[~]" "Using character:" "$customchar" -HighlightColor Gray -SequenceColor DarkGray
     $obfuscated = ($binary.ToCharArray() | % {if ($_ -eq '0') { "$($customchar)" } else { "$($customchar)$($customchar)" }}) -join '‌'
     $startvar = nvrandom
     $stub = @"
@@ -337,4 +374,4 @@ function nvvoid{
     log "[+]" ("Completed in {0:N2}ms" -f $stopwatch.Elapsed.TotalMilliseconds) -HighlightColor Green
 }
 
-Add-Type -AssemblyName System.Windows.Forms,System.Drawing;Add-Type -TypeDefinition 'using System;using System.Runtime.InteropServices;public class WinAPI{[DllImport("user32.dll")]public static extern bool ShowWindow(IntPtr hWnd,int nCmdShow);}';$white=[Drawing.Color]::White;$inputf=[Drawing.Font]::new('Segoe UI',9);$40=[Drawing.Color]::FromArgb(40,40,40);$state=@{nvi='';nvo='';char='​'};$nvmain=[Windows.Forms.Form] @{Text='Noverse PowerShell Void Obfuscation';Size=[Drawing.Size]::new(1300,800);StartPosition='CenterScreen';BackColor=[Drawing.Color]::FromArgb(28,28,28);FormBorderStyle='Sizable';Icon=[Drawing.Icon]::ExtractAssociatedIcon("$env:temp\Noverse.ico")};$selpanel=[Windows.Forms.Panel] @{Location=[Drawing.Point]::new(5,5);Size=[Drawing.Size]::new(480,185);BackColor=$40;BorderStyle='FixedSingle'};$logpanel=[Windows.Forms.Panel] @{Location=[Drawing.Point]::new(5,195);Size=[Drawing.Size]::new(480,560);BackColor=$40;BorderStyle='FixedSingle'};$contentpanel=[Windows.Forms.Panel] @{Location=[Drawing.Point]::new(490,5);Size=[Drawing.Size]::new(790,750);BackColor=$40;BorderStyle='FixedSingle'};$nvmain.Controls.AddRange(@($selpanel,$logpanel,$contentpanel));$inbox=[Windows.Forms.TextBox] @{Font=$inputf;AllowDrop=$true;Location=[Drawing.Point]::new(20,31);Size=[Drawing.Size]::new(350,22);BackColor=$40;ForeColor=$white;BorderStyle='FixedSingle'};$inbox.Add_DragEnter({if($_.Data.GetDataPresent([Windows.Forms.DataFormats]::FileDrop)){$_.Effect=[Windows.Forms.DragDropEffects]::Copy}});$inbox.Add_DragDrop({$files=$_.Data.GetData([Windows.Forms.DataFormats]::FileDrop);if($files.Count -ge1){$inbox.Text=$files[0]}});$inbox.Add_TextChanged({$state.nvi=$inbox.Text;try{$content.Text=gc $state.nvi -Raw}catch{log "[-]" "Failed to read content" -HighlightColor Red}});$selpanel.Controls.Add($inbox);$outbox=[Windows.Forms.TextBox] @{Font=$inputf;AllowDrop=$true;Location=[Drawing.Point]::new(20,81);Size=[Drawing.Size]::new(350,25);BackColor=$40;ForeColor=$white;BorderStyle='FixedSingle'};$outbox.Add_DragEnter({if($_.Data.GetDataPresent([Windows.Forms.DataFormats]::FileDrop)){$_.Effect=[Windows.Forms.DragDropEffects]::Copy}});$outbox.Add_DragDrop({$files=$_.Data.GetData([Windows.Forms.DataFormats]::FileDrop);if($files.Count -ge1){$outbox.Text=$files[0]}});$outbox.Add_TextChanged({$state.nvo=$outbox.Text});$selpanel.Controls.Add($outbox);$content=[Windows.Forms.RichTextBox] @{Multiline=$true;ReadOnly=$true;ScrollBars=[Windows.Forms.RichTextBoxScrollBars]::Both;WordWrap=$false;BackColor=$40;ForeColor=$white;Font=[Drawing.Font]::new('Consolas',9);BorderStyle='None';Dock='Fill'};$contentpanel.Controls.Add($content);$logs=[Windows.Forms.RichTextBox] @{Multiline=$true;ReadOnly=$true;ScrollBars=[Windows.Forms.RichTextBoxScrollBars]::Vertical;BackColor=$40;ForeColor=$white;Font=[Drawing.Font]::new('Consolas',9);BorderStyle='None';Dock='Fill'};$logpanel.Controls.Add($logs);$nvmain.Add_Resize({$contentpanel.Left=490;$contentpanel.Top=5;$contentpanel.Width=$nvmain.ClientSize.Width - $contentpanel.Left - 5;$contentpanel.Height=$nvmain.ClientSize.Height - $contentpanel.Top - 5;$logpanel.Top=195;$logpanel.Left=5;$logpanel.Width=480;$logpanel.Height=[math]::Max(100,$nvmain.ClientSize.Height - $logpanel.Top - 5);$content.Width=$contentpanel.ClientSize.Width;$content.Height=$contentpanel.ClientSize.Height;$logs.Width=$logpanel.ClientSize.Width;$logs.Height=$logpanel.ClientSize.Height});$inlabel=[Windows.Forms.Label] @{Text='Input File';Font=$inputf;Location=[Drawing.Point]::new(20,10);ForeColor=$white;BackColor=$40};$selpanel.Controls.Add($inlabel);$outlabel=[Windows.Forms.Label] @{Text='Output File';Font=$inputf;Location=[Drawing.Point]::new(20,60);ForeColor=$white;BackColor=$40};$selpanel.Controls.Add($outlabel);$inselect=[Windows.Forms.Button] @{Text='Select';Location=[Drawing.Point]::new(375,30);Size=[Drawing.Size]::new(80,25);BackColor=[Drawing.Color]::FromArgb(50,50,50);ForeColor=$white;FlatStyle='Flat';Font=$inputf};$inselect.FlatAppearance.BorderColor=[Drawing.Color]::Gray;$inselect.FlatAppearance.BorderSize=1;$inselect.Add_Click({$dialog=[Windows.Forms.OpenFileDialog]::new();$dialog.Title="Select Input File";$dialog.Filter="PowerShell(*.ps1;*.psm1;*.psd1)|*.ps1;*.psm1;*.psd1|All(*.*)|*.*";if($dialog.ShowDialog()-eq'OK'){$state.nvi=$dialog.FileName;$inbox.Text=$state.nvi;try{$content.Text=gc $state.nvi -Raw}catch{log "[-]" "Failed to read content" -HighlightColor Red}}});$selpanel.Controls.Add($inselect);$outselect=[Windows.Forms.Button] @{Text='Select';Location=[Drawing.Point]::new(375,80);Size=[Drawing.Size]::new(80,25);BackColor=[Drawing.Color]::FromArgb(50,50,50);ForeColor=$white;FlatStyle='Flat';Font=$inputf};$outselect.FlatAppearance.BorderColor=[Drawing.Color]::Gray;$outselect.FlatAppearance.BorderSize=1;$outselect.Add_Click({$dialog=[Windows.Forms.OpenFileDialog]::new();$dialog.Title="Select Output File";$dialog.Filter="PowerShell(*.ps1;*.psm1;*.psd1)|*.ps1;*.psm1;*.psd1|All(*.*)|*.*";if($dialog.ShowDialog()-eq'OK'){$state.nvo=$dialog.FileName;$outbox.Text=$state.nvo}});$selpanel.Controls.Add($outselect);$customlabel=[Windows.Forms.Label] @{Text='Custom Character';Font=$inputf;Location=[Drawing.Point]::new(20,110);Size=[Drawing.Size]::new(250,20);ForeColor=$white;BackColor=$40};$selpanel.Controls.Add($customlabel);$custombox=[Windows.Forms.TextBox] @{Font=$inputf;Location=[Drawing.Point]::new(20,131);Size=[Drawing.Size]::new(160,25);BackColor=$40;ForeColor=$white;BorderStyle='FixedSingle';Text='​'};$selpanel.Controls.Add($custombox);$custombox.Add_TextChanged({$state.char=$custombox.Text});$buttons=@(@{Text='Obfuscate';X=205;Y=130;Action={if([string]::IsNullOrWhiteSpace($state.nvi)-or!(Test-Path $state.nvi)){log "[-]" "Invalid input path" -HighlightColor Red}else{if(!$state.nvo){log "[~]" "Fallback to default nvo" -HighlightColor Gray;$directory=Split-Path $state.nvi -Parent;$filename=Split-Path $state.nvi -Leaf;$state.nvo=Join-Path $directory("NV-" + $filename);$outbox.Text=$state.nvo};nvvoid -nvi $state.nvi -nvo $state.nvo}}},@{Text='Discord';X=290;Y=130;Action={saps "https://discord.gg/E2ybG4j9jU"}},@{Text='Clear';X=375;Y=130;Action={$state.nvi='';$state.nvo='';$inbox.Text='';$outbox.Text='';$content.Text='';$logs.Text='';$custombox.Text='​'}});foreach($btnprops in $buttons){$btn=[Windows.Forms.Button] @{Text=$btnprops.Text;Location=[Drawing.Point]::new($btnprops.X,$btnprops.Y);BackColor=[Drawing.Color]::FromArgb(50,50,50);ForeColor=$white;FlatStyle='Flat';Size=[Drawing.Size]::new(80,25);Font=$inputf};$btn.FlatAppearance.BorderColor=[Drawing.Color]::Gray;$btn.FlatAppearance.BorderSize=1;$btn.Add_Click($btnprops.Action);$selpanel.Controls.Add($btn)};log "[~]" "Waiting for file input" -HighlightColor Gray;[WinAPI]::ShowWindow((gps -Id $PID).MainWindowHandle,0);$nvmain.Add_FormClosed({kill -Id $PID});[Windows.Forms.Application]::Run($nvmain)
+sal -name nvwh -value Write-Host;Add-Type -AssemblyName System.Windows.Forms,System.Drawing;Add-Type -TypeDefinition 'using System;using System.Runtime.InteropServices;public class WinAPI{[DllImport("user32.dll")]public static extern bool ShowWindow(IntPtr hWnd,int nCmdShow);}';$white=[Drawing.Color]::White;$inputf=[Drawing.Font]::new('Segoe UI',9);$boxempty=[Drawing.Color]::Transparent;$blue=[Drawing.Color]::CornflowerBlue;$40=[Drawing.Color]::FromArgb(40,40,40);$state=@{nvi='';nvo='';char='​';softmini=$false;logdetail=$false};$nvmain=[Windows.Forms.Form] @{Text='Noverse PowerShell Void Obfuscation';Size=[Drawing.Size]::new(1300,800);StartPosition='CenterScreen';BackColor=[Drawing.Color]::FromArgb(28,28,28);FormBorderStyle='Sizable';Icon=[Drawing.Icon]::ExtractAssociatedIcon("$env:temp\Noverse.ico")};$selpanel=[Windows.Forms.Panel] @{Location=[Drawing.Point]::new(5,5);Size=[Drawing.Size]::new(480,185);BackColor=$40;BorderStyle='FixedSingle'};$logpanel=[Windows.Forms.Panel] @{Location=[Drawing.Point]::new(5,230);Size=[Drawing.Size]::new(480,525);BackColor=$40;BorderStyle='FixedSingle'};$contentpanel=[Windows.Forms.Panel] @{Location=[Drawing.Point]::new(490,5);Size=[Drawing.Size]::new(790,750);BackColor=$40;BorderStyle='FixedSingle'};$nvmain.Controls.AddRange(@($selpanel,$logpanel,$contentpanel));$inbox=[Windows.Forms.TextBox] @{Font=$inputf;AllowDrop=$true;Location=[Drawing.Point]::new(20,31);Size=[Drawing.Size]::new(350,22);BackColor=$40;ForeColor=$white;BorderStyle='FixedSingle'};$inbox.Add_DragEnter({if($_.Data.GetDataPresent([Windows.Forms.DataFormats]::FileDrop)){$_.Effect=[Windows.Forms.DragDropEffects]::Copy}});$inbox.Add_DragDrop({$files=$_.Data.GetData([Windows.Forms.DataFormats]::FileDrop);if($files.Count -ge1){$inbox.Text=$files[0]}});$inbox.Add_TextChanged({$state.nvi=$inbox.Text;try{$content.Text=gc $state.nvi -Raw}catch{log "[-]" "Failed to read content" -HighlightColor Red}});$selpanel.Controls.Add($inbox);$outbox=[Windows.Forms.TextBox] @{Font=$inputf;AllowDrop=$true;Location=[Drawing.Point]::new(20,81);Size=[Drawing.Size]::new(350,25);BackColor=$40;ForeColor=$white;BorderStyle='FixedSingle'};$outbox.Add_DragEnter({if($_.Data.GetDataPresent([Windows.Forms.DataFormats]::FileDrop)){$_.Effect=[Windows.Forms.DragDropEffects]::Copy}});$outbox.Add_DragDrop({$files=$_.Data.GetData([Windows.Forms.DataFormats]::FileDrop);if($files.Count -ge1){$outbox.Text=$files[0]}});$outbox.Add_TextChanged({$state.nvo=$outbox.Text});$selpanel.Controls.Add($outbox);$content=[Windows.Forms.RichTextBox] @{Multiline=$true;ReadOnly=$true;ScrollBars=[Windows.Forms.RichTextBoxScrollBars]::Both;WordWrap=$false;BackColor=$40;ForeColor=$white;Font=[Drawing.Font]::new('Consolas',9);BorderStyle='None';Dock='Fill'};$contentpanel.Controls.Add($content);$logs=[Windows.Forms.RichTextBox] @{Multiline=$true;ReadOnly=$true;ScrollBars=[Windows.Forms.RichTextBoxScrollBars]::Vertical;BackColor=$40;ForeColor=$white;Font=[Drawing.Font]::new('Consolas',9);BorderStyle='None';Dock='Fill'};$logpanel.Controls.Add($logs);$nvmain.Add_Resize({$contentpanel.Left=490;$contentpanel.Top=5;$contentpanel.Width=$nvmain.ClientSize.Width - $contentpanel.Left - 5;$contentpanel.Height=$nvmain.ClientSize.Height - $contentpanel.Top - 5;$logpanel.Top=230;$logpanel.Left=5;$logpanel.Width=480;$logpanel.Height=[math]::Max(100,$nvmain.ClientSize.Height - $logpanel.Top - 5);$content.Width=$contentpanel.ClientSize.Width;$content.Height=$contentpanel.ClientSize.Height;$logs.Width=$logpanel.ClientSize.Width;$logs.Height=$logpanel.ClientSize.Height});$inlabel=[Windows.Forms.Label] @{Text='Input File';Font=$inputf;Location=[Drawing.Point]::new(20,10);ForeColor=$white;BackColor=$40};$selpanel.Controls.Add($inlabel);$outlabel=[Windows.Forms.Label] @{Text='Output File';Font=$inputf;Location=[Drawing.Point]::new(20,60);ForeColor=$white;BackColor=$40};$selpanel.Controls.Add($outlabel);$inselect=[Windows.Forms.Button] @{Text='Select';Location=[Drawing.Point]::new(375,30);Size=[Drawing.Size]::new(80,25);BackColor=[Drawing.Color]::FromArgb(50,50,50);ForeColor=$white;FlatStyle='Flat';Font=$inputf};$inselect.FlatAppearance.BorderColor=[Drawing.Color]::Gray;$inselect.FlatAppearance.BorderSize=1;$inselect.Add_Click({$dialog=[Windows.Forms.OpenFileDialog]::new();$dialog.Title="Select Input File";$dialog.Filter="PowerShell(*.ps1;*.psm1;*.psd1)|*.ps1;*.psm1;*.psd1|All(*.*)|*.*";if($dialog.ShowDialog()-eq'OK'){$state.nvi=$dialog.FileName;$inbox.Text=$state.nvi;try{$content.Text=gc $state.nvi -Raw}catch{log "[-]" "Failed to read content" -HighlightColor Red}}});$selpanel.Controls.Add($inselect);$outselect=[Windows.Forms.Button] @{Text='Select';Location=[Drawing.Point]::new(375,80);Size=[Drawing.Size]::new(80,25);BackColor=[Drawing.Color]::FromArgb(50,50,50);ForeColor=$white;FlatStyle='Flat';Font=$inputf};$outselect.FlatAppearance.BorderColor=[Drawing.Color]::Gray;$outselect.FlatAppearance.BorderSize=1;$outselect.Add_Click({$dialog=[Windows.Forms.OpenFileDialog]::new();$dialog.Title="Select Output File";$dialog.Filter="PowerShell(*.ps1;*.psm1;*.psd1)|*.ps1;*.psm1;*.psd1|All(*.*)|*.*";if($dialog.ShowDialog()-eq'OK'){$state.nvo=$dialog.FileName;$outbox.Text=$state.nvo}});$selpanel.Controls.Add($outselect);$customlabel=[Windows.Forms.Label] @{Text='Custom Character';Font=$inputf;Location=[Drawing.Point]::new(20,110);Size=[Drawing.Size]::new(250,20);ForeColor=$white;BackColor=$40};$selpanel.Controls.Add($customlabel);$custombox=[Windows.Forms.TextBox] @{Font=$inputf;Location=[Drawing.Point]::new(20,131);Size=[Drawing.Size]::new(160,25);BackColor=$40;ForeColor=$white;BorderStyle='FixedSingle';Text='​'};$selpanel.Controls.Add($custombox);$custombox.Add_TextChanged({$state.char=$custombox.Text});$optionpanel=[Windows.Forms.Panel] @{Location=[Drawing.Point]::new(95,195);Size=[Drawing.Size]::new(300,30);BackColor=$40;BorderStyle='FixedSingle'};$nvmain.Controls.Add($optionpanel);$minioption=@(@{Text='Soft Minify';Key='softmini'};@{Text='Detailed Logging';Key='logdetail'});$minioption|% -Begin{$i=0}-Process{$x=30+($i % 3)* 120;$box=[Windows.Forms.Panel] @{Size=[Drawing.Size]::new(14,14);Location=[Drawing.Point]::new($x,8);BackColor=if($state[$_.Key]){$blue}else{$boxempty};BorderStyle='FixedSingle';Tag=@{Checked=$state[$_.Key];Ref=$_.Key}};$label=[Windows.Forms.Label] @{Text=$_.Text;ForeColor='White';BackColor=$boxempty;Location=[Drawing.Point]::new($x+20,8 - 2);AutoSize=$true;Font=[Drawing.Font]::new('Segoe UI',9)};$click={$tag=$box.Tag;$tag.Checked=!$tag.Checked;$state[$tag.Ref]=$tag.Checked;$box.BackColor=if($tag.Checked){$blue}else{$boxempty}}.GetNewClosure();$box.Add_Click($click);$label.Add_Click($click);$optionpanel.Controls.AddRange(@($box,$label));$i++};$buttons=@(@{Text='Obfuscate';X=205;Y=130;Action={if([string]::IsNullOrWhiteSpace($state.nvi)-or!(Test-Path $state.nvi)){log "[-]" "Invalid input path" -HighlightColor Red}else{if(!$state.nvo){log "[~]" "Fallback to default nvo" -HighlightColor Gray;$directory=Split-Path $state.nvi -Parent;$filename=Split-Path $state.nvi -Leaf;$state.nvo=Join-Path $directory("NV-"+$filename);$outbox.Text=$state.nvo};nvvoid -nvi $state.nvi -nvo $state.nvo}}},@{Text='Discord';X=290;Y=130;Action={saps "https://discord.gg/E2ybG4j9jU"}},@{Text='Clear';X=375;Y=130;Action={$state.nvi='';$state.nvo='';$inbox.Text='';$outbox.Text='';$content.Text='';$logs.Text='';$custombox.Text='​';$btnstate=@{softmini=$false;logdetail=$false};$optionpanel.Controls|%{if($_.Tag -and$btnstate.ContainsKey($_.Tag.Ref)){$newstate=$btnstate[$_.Tag.Ref];$_.Tag.Checked=$newstate;$state[$_.Tag.Ref]=$newstate;$_.BackColor=if($newstate){$blue}else{$boxempty}}}}});foreach($btnprops in $buttons){$btn=[Windows.Forms.Button] @{Text=$btnprops.Text;Location=[Drawing.Point]::new($btnprops.X,$btnprops.Y);BackColor=[Drawing.Color]::FromArgb(50,50,50);ForeColor=$white;FlatStyle='Flat';Size=[Drawing.Size]::new(80,25);Font=$inputf};$btn.FlatAppearance.BorderColor=[Drawing.Color]::Gray;$btn.FlatAppearance.BorderSize=1;$btn.Add_Click($btnprops.Action);$selpanel.Controls.Add($btn)};log "[~]" "Waiting for file input" -HighlightColor Gray;[WinAPI]::ShowWindow((gps -Id $PID).MainWindowHandle,0);$nvmain.Add_FormClosed({kill -Id $PID});[Windows.Forms.Application]::Run($nvmain)
